@@ -1,0 +1,16 @@
+for each matchup we have:
+Home,Away
+for each squad we have:
+matches played, expected goals, expected goals allowed for the season
+therefore, for each team we have:
+avg expected goals per 90, avg expected goals allowed per 90
+
+
+example:
+
+
+Koln (home) v Mainz 05 (away)
+35.9 xG       32.9 xG
+35.1 xGA      42.1 xGA
+1.436 xG/90   1.316 xG/90
+1.404 xGA/90  1.684 xGA/90

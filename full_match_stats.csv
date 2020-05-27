@@ -1,0 +1,5 @@
+wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_shots,away_shots_on_target,away_touches,away_pass_pct,away_assists,home_id,home_shots,home_shots_on_target,home_touches,home_pass_pct,home_assists
+27,5,2,2.7,1.1,054efa67,23,10,856,84.5,3,f0ac8ee6,12,4,507,69.1,2
+27,0,3,0.7,1.3,c539e393,12,2,803,81.7,0,0cdc4311,9,7,439,60.6,0
+27,0,5,0.2,5.2,a224b06a,4,1,486,78.2,0,acbb6a5b,21,9,834,88.0,5
+27,2,2,1.5,0.8,bc357bf7,14,5,680,76.6,2,b1278397,10,4,494,66.5,2
