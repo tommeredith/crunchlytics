@@ -7,7 +7,9 @@ pipeline {
             }
         }
         stage('scrape') {
-            sh 'python germanCrawl.py'
+            steps {
+                sh 'python germanCrawl.py'
+            }
         }
     }
 }
