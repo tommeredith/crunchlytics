@@ -53,8 +53,7 @@ def convert_to_csv(stats):
         dict_writer.writerows(stats)
 
 
-
-def scrape_that_shit():
+def scrape_matches_like_a_thug():
     all_match_stats = []
     fixtures_url = 'https://fbref.com/en/comps/20/schedule/Bundesliga-Fixtures'
     page = requests.get(fixtures_url)
@@ -64,6 +63,8 @@ def scrape_that_shit():
     print('')
     print('')
     for index in range(len(matches)):
+        if index < 265:
+            continue
         if matches[index].has_attr('class'):
             if 'spacer' in matches[index]['class'] or 'thead' in matches[index]['class']:
                 continue
@@ -97,4 +98,8 @@ def scrape_that_shit():
     print('=========== DONEZO ==============')
 
 
-scrape_that_shit()
+def scrape_match_log_like_a_g():
+    print('match log scrape goes here')
+
+
+scrape_matches_like_a_thug()
