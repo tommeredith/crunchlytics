@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import argparse
 from odds import calculate_odds
+import psycopg2
+from psycopg2.extras import RealDictCursor
 
 
 home_coefs = {
@@ -19,6 +21,18 @@ away_coefs = {
     "away_pass_pct_coef": 1.2,
     "away_expected_goals_coef": 0.95
 }
+
+def fetch_season_match_log(league):
+    conn = psycopg2.connect("host='all-them-stats.chure6gtnama.us-east-1.rds.amazonaws.com' port='5432' "
+                            "dbname='stats_data' user='bundesstats' password='bundesstats'")
+    select_match_log_statement = 'select * from full_match_stats_' + league
+    cursor = conn.cursor(cursor_factory=RealDictCursor)
+    cursor.execute(select_match_log_statement)
+    match_log = pd.DataFrame(data=cursor.fetchall())
+    conn.commit()
+    conn.close()
+
+    return match_log
 
 
 def run_predictions(season, table, game_week):
@@ -268,7 +282,7 @@ week = args.week
 run = args.run
 league = args.league
 
-season_csv = pd.read_csv('full_match_stats_' + league + '.csv')
+season_csv = fetch_season_match_log(league)
 table_csv = pd.read_csv('league_table_' + league + '.csv')
 
 if args.run and args.week:

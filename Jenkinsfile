@@ -8,7 +8,7 @@ pipeline {
         }
         stage('scrape') {
             steps {
-                sh 'python germanCrawl.py'
+                sh 'python run_tell_dat_with_exp.py -wk=35 -lg=premier -r'
             }
         }
     }
