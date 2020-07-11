@@ -167,12 +167,13 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-lg', '--league', default='', type=str, help='put that league in, you hot bitch')
 parser.add_argument('-s', '--stash', action='store_true', help='just stash in db')
 parser.add_argument('-standings', '--standings', action='store_true', help='grab and stash standings')
+parser.add_argument('-past', '-p', action='store_true', help='grab and stash past standings and match data')
 args = parser.parse_args()
 
 league = args.league
 stash = args.stash
 standings = args.standings
-
+past = args.past
 
 print(league)
 if league == 'bundesliga':
@@ -184,6 +185,9 @@ if league == 'premier':
 if league == 'liga':
     fixtures_url = 'https://fbref.com/en/comps/12/schedule/La-Liga-Fixtures'
     table_url = 'https://fbref.com/en/comps/12/La-Liga-Stats'
+if league == 'seriea':
+    fixtures_url = 'https://fbref.com/en/comps/11/schedule/Serie-A-Fixtures'
+    table_url = 'https://fbref.com/en/comps/11/Serie-A-Stats'
 
 if standings:
     team_id_dict, team_table_stats = get_league_table(table_url)

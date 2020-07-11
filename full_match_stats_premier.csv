@@ -64,8 +64,8 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 7,2,0,1.5,0.6,1c781004,10,3,676,82.0,0,47c64c55,14,2,576,78.9,1,Crystal Palace,Norwich City
 7,2,0,3.2,0.5,d07537b9,8,1,656,82.0,0,cff3d9bb,23,9,714,84.5,1,Chelsea,Brighton
 7,2,2,0.7,1.3,943e8050,10,3,409,66.2,2,8602292d,16,3,585,77.2,2,Aston Villa,Burnley
-7,2,2,2.0,1.4,7c21e445,17,6,631,76.9,2,4ba7cbea,13,5,620,78.6,2,Bournemouth,West Ham
 7,2,0,1.5,1.0,2abfe087,14,5,774,83.5,0,8cec06e1,7,2,547,79.0,1,Wolves,Watford
+7,2,2,2.0,1.4,7c21e445,17,6,631,76.9,2,4ba7cbea,13,5,620,78.6,2,Bournemouth,West Ham
 7,1,3,2.5,3.3,b8fd03ef,20,10,780,90.0,1,d3fd31cc,12,6,495,79.9,1,Everton,Manchester City
 7,5,0,1.1,0.1,b2b47a98,3,0,473,77.3,0,a2d435b3,13,5,876,87.5,3,Leicester City,Newcastle Utd
 7,1,1,1.1,1.6,18bb7c10,10,5,522,75.1,1,19538871,16,4,594,79.1,1,Manchester Utd,Arsenal
@@ -112,8 +112,8 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 12,0,2,0.8,0.7,2abfe087,12,2,473,73.8,1,1c781004,17,5,773,84.7,0,Norwich City,Watford
 12,2,0,2.5,0.2,47c64c55,3,1,525,79.7,0,cff3d9bb,22,6,724,85.9,1,Chelsea,Crystal Palace
 12,1,1,1.1,1.0,1df6b87e,14,4,552,74.5,1,361ca564,17,5,749,83.4,0,Tottenham,Sheffield Utd
-12,3,0,1.7,0.5,7c21e445,7,4,599,74.6,0,943e8050,14,11,462,67.4,2,Burnley,West Ham
 12,2,1,3.1,2.3,4ba7cbea,15,3,722,84.5,1,b2b47a98,20,9,435,68.5,0,Newcastle Utd,Bournemouth
+12,3,0,1.7,0.5,7c21e445,7,4,599,74.6,0,943e8050,14,11,462,67.4,2,Burnley,West Ham
 12,1,2,0.9,1.9,d3fd31cc,24,5,559,74.1,2,33c895d4,4,3,504,71.6,0,Southampton,Everton
 12,2,0,1.7,0.8,18bb7c10,8,1,598,82.4,0,a2d435b3,19,7,625,87.3,2,Leicester City,Arsenal
 12,3,1,2.3,0.8,d07537b9,5,2,626,79.3,1,19538871,21,10,521,78.7,3,Manchester Utd,Brighton
@@ -160,11 +160,11 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 16,2,2,0.9,1.5,8cec06e1,13,5,481,73.3,2,d07537b9,13,4,691,82.6,2,Brighton,Wolves
 16,1,3,0.6,1.7,18bb7c10,10,3,830,87.0,3,7c21e445,11,5,513,77.4,1,West Ham,Arsenal
 17,2,0,1.5,1.2,2abfe087,8,2,477,62.7,0,822bd0ba,16,6,814,82.3,2,Liverpool,Watford
-17,0,1,1.7,0.9,4ba7cbea,8,2,492,63.1,1,cff3d9bb,16,4,769,78.7,0,Chelsea,Bournemouth
 17,1,0,0.9,0.7,b2b47a98,9,0,539,71.5,0,943e8050,7,4,525,71.5,1,Burnley,Newcastle Utd
+17,0,1,1.7,0.9,4ba7cbea,8,2,492,63.1,1,cff3d9bb,16,4,769,78.7,0,Chelsea,Bournemouth
 17,2,0,1.5,1.2,8602292d,7,0,551,70.5,0,1df6b87e,7,3,657,75.9,2,Sheffield Utd,Aston Villa
 17,1,1,1.4,1.8,1c781004,10,3,560,78.1,1,a2d435b3,19,5,678,82.3,0,Leicester City,Norwich City
-17,0,1,1.0,1.0,7c21e445,10,4,523,60.9,1,33c895d4,11,2,649,72.8,0,Southampton,West Ham
+17,0,1,0.9,1.0,7c21e445,10,4,523,60.9,1,33c895d4,11,2,649,72.8,0,Southampton,West Ham
 17,1,1,1.6,0.3,d3fd31cc,8,3,431,64.5,0,19538871,24,8,703,84.6,1,Manchester Utd,Everton
 17,1,2,0.8,0.9,361ca564,9,5,545,71.7,2,8cec06e1,18,5,648,75.5,1,Wolves,Tottenham
 17,0,3,0.4,1.8,b8fd03ef,14,7,804,90.1,3,18bb7c10,6,1,609,83.1,0,Arsenal,Manchester City
@@ -289,85 +289,85 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 29,4,0,2.3,0.5,8602292d,4,1,455,68.1,0,a2d435b3,14,6,712,81.7,2,Leicester City,Aston Villa
 28,0,0,1.4,0.4,1df6b87e,5,1,613,78.6,0,8602292d,14,6,535,78.7,0,Aston Villa,Sheffield Utd
 28,3,0,3.6,0.2,18bb7c10,2,0,428,80.8,0,b8fd03ef,19,11,804,91.8,0,Manchester City,Arsenal
-30,0,3,0.6,1.7,33c895d4,21,8,501,70.3,3,1c781004,8,1,557,68.8,0,Norwich City,Southampton
-30,1,1,0.4,1.6,19538871,11,5,722,80.9,0,361ca564,10,3,522,72.3,1,Tottenham,Manchester Utd
-30,1,1,1.2,1.0,a2d435b3,15,2,723,78.4,1,2abfe087,7,4,430,61.3,1,Watford,Leicester City
-30,2,1,1.0,1.3,18bb7c10,13,6,632,86.3,1,d07537b9,10,6,463,76.2,1,Brighton,Arsenal
+30,0,3,0.8,1.7,33c895d4,22,8,501,70.3,3,1c781004,9,1,558,69.1,0,Norwich City,Southampton
+30,1,1,0.4,1.6,19538871,11,5,723,80.8,0,361ca564,10,3,522,72.3,1,Tottenham,Manchester Utd
+30,1,1,0.9,0.8,a2d435b3,15,2,722,78.4,1,2abfe087,7,4,431,61.8,1,Watford,Leicester City
+30,2,1,0.9,1.3,18bb7c10,13,6,633,86.2,1,d07537b9,9,5,464,76.0,1,Brighton,Arsenal
 30,0,2,0.3,0.7,8cec06e1,10,6,654,80.9,2,7c21e445,7,2,498,73.8,0,West Ham,Wolves
-30,0,2,0.8,0.6,47c64c55,7,2,494,78.1,1,4ba7cbea,12,1,633,82.7,0,Bournemouth,Crystal Palace
-30,,,,,1df6b87e,,,,,,b2b47a98,,,,,,Newcastle Utd,Sheffield Utd
-30,,,,,cff3d9bb,,,,,,8602292d,,,,,,Aston Villa,Chelsea
-30,,,,,822bd0ba,,,,,,d3fd31cc,,,,,,Everton,Liverpool
-30,,,,,943e8050,,,,,,b8fd03ef,,,,,,Manchester City,Burnley
-31,,,,,d07537b9,,,,,,a2d435b3,,,,,,Leicester City,Brighton
-31,,,,,7c21e445,,,,,,361ca564,,,,,,Tottenham,West Ham
-31,,,,,4ba7cbea,,,,,,8cec06e1,,,,,,Wolves,Bournemouth
-31,,,,,8602292d,,,,,,b2b47a98,,,,,,Newcastle Utd,Aston Villa
-31,,,,,d3fd31cc,,,,,,1c781004,,,,,,Norwich City,Everton
-31,,,,,1df6b87e,,,,,,19538871,,,,,,Manchester Utd,Sheffield Utd
-31,,,,,47c64c55,,,,,,822bd0ba,,,,,,Liverpool,Crystal Palace
-31,,,,,2abfe087,,,,,,943e8050,,,,,,Burnley,Watford
-31,,,,,18bb7c10,,,,,,33c895d4,,,,,,Southampton,Arsenal
-31,,,,,b8fd03ef,,,,,,cff3d9bb,,,,,,Chelsea,Manchester City
-32,,,,,8cec06e1,,,,,,8602292d,,,,,,Aston Villa,Wolves
-32,,,,,33c895d4,,,,,,2abfe087,,,,,,Watford,Southampton
-32,,,,,943e8050,,,,,,47c64c55,,,,,,Crystal Palace,Burnley
-32,,,,,19538871,,,,,,d07537b9,,,,,,Brighton,Manchester Utd
-32,,,,,1c781004,,,,,,18bb7c10,,,,,,Arsenal,Norwich City
-32,,,,,a2d435b3,,,,,,d3fd31cc,,,,,,Everton,Leicester City
-32,,,,,b2b47a98,,,,,,4ba7cbea,,,,,,Bournemouth,Newcastle Utd
-32,,,,,cff3d9bb,,,,,,7c21e445,,,,,,West Ham,Chelsea
-32,,,,,361ca564,,,,,,1df6b87e,,,,,,Sheffield Utd,Tottenham
-32,,,,,822bd0ba,,,,,,b8fd03ef,,,,,,Manchester City,Liverpool
-33,,,,,4ba7cbea,,,,,,19538871,,,,,,Manchester Utd,Bournemouth
-33,,,,,7c21e445,,,,,,b2b47a98,,,,,,Newcastle Utd,West Ham
-33,,,,,1df6b87e,,,,,,943e8050,,,,,,Burnley,Sheffield Utd
-33,,,,,47c64c55,,,,,,a2d435b3,,,,,,Leicester City,Crystal Palace
-33,,,,,d07537b9,,,,,,1c781004,,,,,,Norwich City,Brighton
-33,,,,,18bb7c10,,,,,,8cec06e1,,,,,,Wolves,Arsenal
-33,,,,,b8fd03ef,,,,,,33c895d4,,,,,,Southampton,Manchester City
-33,,,,,8602292d,,,,,,822bd0ba,,,,,,Liverpool,Aston Villa
-33,,,,,d3fd31cc,,,,,,361ca564,,,,,,Tottenham,Everton
-33,,,,,2abfe087,,,,,,cff3d9bb,,,,,,Chelsea,Watford
-34,,,,,cff3d9bb,,,,,,47c64c55,,,,,,Crystal Palace,Chelsea
-34,,,,,33c895d4,,,,,,d3fd31cc,,,,,,Everton,Southampton
-34,,,,,a2d435b3,,,,,,18bb7c10,,,,,,Arsenal,Leicester City
-34,,,,,943e8050,,,,,,7c21e445,,,,,,West Ham,Burnley
-34,,,,,361ca564,,,,,,4ba7cbea,,,,,,Bournemouth,Tottenham
-34,,,,,822bd0ba,,,,,,d07537b9,,,,,,Brighton,Liverpool
-34,,,,,19538871,,,,,,8602292d,,,,,,Aston Villa,Manchester Utd
-34,,,,,b2b47a98,,,,,,b8fd03ef,,,,,,Manchester City,Newcastle Utd
-34,,,,,1c781004,,,,,,2abfe087,,,,,,Watford,Norwich City
-34,,,,,8cec06e1,,,,,,1df6b87e,,,,,,Sheffield Utd,Wolves
-35,,,,,33c895d4,,,,,,19538871,,,,,,Manchester Utd,Southampton
-35,,,,,d3fd31cc,,,,,,8cec06e1,,,,,,Wolves,Everton
-35,,,,,943e8050,,,,,,822bd0ba,,,,,,Liverpool,Burnley
+30,0,2,0.9,0.6,47c64c55,7,2,494,78.1,1,4ba7cbea,12,1,633,82.7,0,Bournemouth,Crystal Palace
+30,3,0,1.5,0.4,1df6b87e,6,1,619,81.4,0,b2b47a98,12,8,562,79.7,3,Newcastle Utd,Sheffield Utd
+30,1,2,1.2,1.4,cff3d9bb,19,5,831,84.2,2,8602292d,8,4,389,64.4,0,Aston Villa,Chelsea
+30,0,0,1.4,0.9,822bd0ba,10,3,733,83.9,0,d3fd31cc,9,3,391,68.5,0,Everton,Liverpool
+30,5,0,2.7,0.0,943e8050,1,0,407,77.2,0,b8fd03ef,18,6,906,91.0,4,Manchester City,Burnley
+31,0,0,0.7,1.2,d07537b9,9,1,439,70.8,0,a2d435b3,11,2,750,84.0,0,Leicester City,Brighton
+31,2,0,1.8,0.8,7c21e445,10,2,493,73.0,0,361ca564,15,4,785,84.9,1,Tottenham,West Ham
+31,1,0,1.1,0.1,4ba7cbea,4,0,499,75.3,0,8cec06e1,11,2,585,80.6,1,Wolves,Bournemouth
+31,1,1,0.8,1.0,8602292d,14,2,522,74.3,1,b2b47a98,13,3,559,77.0,1,Newcastle Utd,Aston Villa
+31,0,1,0.4,0.9,d3fd31cc,12,5,636,79.1,1,1c781004,8,1,565,75.2,0,Norwich City,Everton
+31,3,0,2.5,0.1,1df6b87e,4,1,456,79.3,0,19538871,15,7,858,91.5,3,Manchester Utd,Sheffield Utd
+31,4,0,2.4,0.2,47c64c55,3,0,458,69.3,0,822bd0ba,21,7,1025,87.8,3,Liverpool,Crystal Palace
+31,1,0,1.2,0.7,2abfe087,10,3,480,60.5,0,943e8050,9,4,564,69.6,1,Burnley,Watford
+31,0,2,0.8,2.7,18bb7c10,10,5,531,79.7,0,33c895d4,12,3,570,78.3,0,Southampton,Arsenal
+31,2,1,3.1,0.7,b8fd03ef,10,2,817,88.9,0,cff3d9bb,14,6,488,81.5,0,Chelsea,Manchester City
+32,0,1,0.4,0.5,8cec06e1,9,2,571,80.3,1,8602292d,10,1,538,80.2,0,Aston Villa,Wolves
+32,1,3,0.5,1.3,33c895d4,11,7,634,75.6,1,2abfe087,7,0,555,65.9,0,Watford,Southampton
+32,0,1,1.2,0.6,943e8050,8,4,517,73.6,1,47c64c55,17,4,657,80.9,0,Crystal Palace,Burnley
+32,0,3,0.5,0.8,19538871,13,6,748,87.6,3,d07537b9,9,2,500,80.5,0,Brighton,Manchester Utd
+32,4,0,1.9,0.3,1c781004,8,3,547,78.5,0,18bb7c10,13,8,596,82.8,1,Arsenal,Norwich City
+32,2,1,1.2,1.6,a2d435b3,15,3,740,83.4,0,d3fd31cc,6,2,483,75.7,1,Everton,Leicester City
+32,1,4,1.2,1.4,b2b47a98,12,7,540,77.5,4,4ba7cbea,12,1,630,82.4,1,Bournemouth,Newcastle Utd
+32,3,2,2.6,1.8,cff3d9bb,16,5,801,86.9,0,7c21e445,11,4,422,71.8,3,West Ham,Chelsea
+32,3,1,1.7,1.0,361ca564,9,2,790,81.6,1,1df6b87e,7,5,477,70.8,3,Sheffield Utd,Tottenham
+32,4,0,3.0,1.4,822bd0ba,11,3,664,84.2,0,b8fd03ef,13,4,633,84.4,2,Manchester City,Liverpool
+33,0,1,0.6,0.6,d07537b9,7,2,564,81.5,1,1c781004,12,1,728,85.1,0,Norwich City,Brighton
+33,5,2,2.3,1.1,4ba7cbea,6,2,411,72.7,1,19538871,17,9,771,87.0,3,Manchester Utd,Bournemouth
+33,3,0,2.6,0.6,47c64c55,7,1,611,77.0,0,a2d435b3,14,3,682,82.5,3,Leicester City,Crystal Palace
+33,0,2,1.0,1.2,18bb7c10,8,4,615,82.1,1,8cec06e1,10,1,666,83.9,0,Wolves,Arsenal
+33,3,0,2.6,0.5,2abfe087,6,3,433,74.4,0,cff3d9bb,20,8,874,88.6,2,Chelsea,Watford
+33,1,1,1.5,1.2,1df6b87e,10,3,590,70.8,1,943e8050,9,5,586,72.9,1,Burnley,Sheffield Utd
+33,2,2,1.0,1.5,7c21e445,17,7,529,76.2,1,b2b47a98,11,4,667,80.4,2,Newcastle Utd,West Ham
+33,2,0,0.9,0.6,8602292d,9,3,419,63.4,0,822bd0ba,6,4,797,83.9,2,Liverpool,Aston Villa
+33,1,0,0.8,2.8,b8fd03ef,26,6,966,87.4,0,33c895d4,8,4,473,67.6,1,Southampton,Manchester City
+33,1,0,0.6,0.5,d3fd31cc,11,3,547,79.5,0,361ca564,12,2,575,79.0,0,Tottenham,Everton
+34,2,3,1.3,1.9,cff3d9bb,14,6,709,82.4,3,47c64c55,13,4,568,77.2,1,Crystal Palace,Chelsea
+34,2,1,0.7,1.3,1c781004,13,3,654,82.2,1,2abfe087,8,4,505,73.6,1,Watford,Norwich City
+34,1,1,1.7,1.5,a2d435b3,13,5,698,81.5,1,18bb7c10,11,7,480,70.3,1,Arsenal,Leicester City
+34,0,1,1.9,1.0,943e8050,8,4,580,74.1,1,7c21e445,22,3,604,73.6,0,West Ham,Burnley
+34,5,0,3.1,0.2,b2b47a98,6,1,402,73.1,0,b8fd03ef,24,10,970,91.6,3,Manchester City,Newcastle Utd
+34,1,0,0.8,0.4,8cec06e1,6,1,694,80.2,0,1df6b87e,7,3,531,68.8,1,Sheffield Utd,Wolves
+34,1,3,2.0,2.5,822bd0ba,20,8,646,79.3,3,d07537b9,11,2,540,73.8,1,Brighton,Liverpool
+34,1,1,1.0,2.3,33c895d4,17,4,653,82.1,1,d3fd31cc,11,4,472,72.4,1,Everton,Southampton
+34,0,0,1.2,0.6,361ca564,9,0,685,81.9,0,4ba7cbea,9,2,448,66.9,0,Bournemouth,Tottenham
+34,0,3,0.6,2.5,19538871,14,6,765,87.8,2,8602292d,9,1,444,74.7,0,Aston Villa,Manchester Utd
 35,,,,,7c21e445,,,,,,1c781004,,,,,,Norwich City,West Ham
+35,,,,,b2b47a98,,,,,,2abfe087,,,,,,Watford,Newcastle Utd
+35,,,,,943e8050,,,,,,822bd0ba,,,,,,Liverpool,Burnley
 35,,,,,cff3d9bb,,,,,,1df6b87e,,,,,,Sheffield Utd,Chelsea
 35,,,,,b8fd03ef,,,,,,d07537b9,,,,,,Brighton,Manchester City
-35,,,,,18bb7c10,,,,,,361ca564,,,,,,Tottenham,Arsenal
+35,,,,,d3fd31cc,,,,,,8cec06e1,,,,,,Wolves,Everton
 35,,,,,47c64c55,,,,,,8602292d,,,,,,Aston Villa,Crystal Palace
-35,,,,,b2b47a98,,,,,,2abfe087,,,,,,Watford,Newcastle Utd
+35,,,,,18bb7c10,,,,,,361ca564,,,,,,Tottenham,Arsenal
 35,,,,,a2d435b3,,,,,,4ba7cbea,,,,,,Bournemouth,Leicester City
-36,,,,,4ba7cbea,,,,,,b8fd03ef,,,,,,Manchester City,Bournemouth
-36,,,,,d07537b9,,,,,,33c895d4,,,,,,Southampton,Brighton
-36,,,,,361ca564,,,,,,b2b47a98,,,,,,Newcastle Utd,Tottenham
-36,,,,,2abfe087,,,,,,7c21e445,,,,,,West Ham,Watford
-36,,,,,8602292d,,,,,,d3fd31cc,,,,,,Everton,Aston Villa
-36,,,,,822bd0ba,,,,,,18bb7c10,,,,,,Arsenal,Liverpool
-36,,,,,19538871,,,,,,47c64c55,,,,,,Crystal Palace,Manchester Utd
-36,,,,,8cec06e1,,,,,,943e8050,,,,,,Burnley,Wolves
-36,,,,,1df6b87e,,,,,,a2d435b3,,,,,,Leicester City,Sheffield Utd
+35,,,,,33c895d4,,,,,,19538871,,,,,,Manchester Utd,Southampton
 36,,,,,1c781004,,,,,,cff3d9bb,,,,,,Chelsea,Norwich City
-37,,,,,7c21e445,,,,,,19538871,,,,,,Manchester Utd,West Ham
-37,,,,,d3fd31cc,,,,,,1df6b87e,,,,,,Sheffield Utd,Everton
-37,,,,,b8fd03ef,,,,,,2abfe087,,,,,,Watford,Manchester City
-37,,,,,33c895d4,,,,,,4ba7cbea,,,,,,Bournemouth,Southampton
+36,,,,,4ba7cbea,,,,,,b8fd03ef,,,,,,Manchester City,Bournemouth
+36,,,,,361ca564,,,,,,b2b47a98,,,,,,Newcastle Utd,Tottenham
+36,,,,,8cec06e1,,,,,,943e8050,,,,,,Burnley,Wolves
+36,,,,,822bd0ba,,,,,,18bb7c10,,,,,,Arsenal,Liverpool
+36,,,,,8602292d,,,,,,d3fd31cc,,,,,,Everton,Aston Villa
+36,,,,,1df6b87e,,,,,,a2d435b3,,,,,,Leicester City,Sheffield Utd
+36,,,,,d07537b9,,,,,,33c895d4,,,,,,Southampton,Brighton
+36,,,,,19538871,,,,,,47c64c55,,,,,,Crystal Palace,Manchester Utd
+36,,,,,2abfe087,,,,,,7c21e445,,,,,,West Ham,Watford
 37,,,,,943e8050,,,,,,1c781004,,,,,,Norwich City,Burnley
-37,,,,,47c64c55,,,,,,8cec06e1,,,,,,Wolves,Crystal Palace
-37,,,,,b2b47a98,,,,,,d07537b9,,,,,,Brighton,Newcastle Utd
-37,,,,,18bb7c10,,,,,,8602292d,,,,,,Aston Villa,Arsenal
+37,,,,,33c895d4,,,,,,4ba7cbea,,,,,,Bournemouth,Southampton
 37,,,,,a2d435b3,,,,,,361ca564,,,,,,Tottenham,Leicester City
+37,,,,,d3fd31cc,,,,,,1df6b87e,,,,,,Sheffield Utd,Everton
+37,,,,,b2b47a98,,,,,,d07537b9,,,,,,Brighton,Newcastle Utd
+37,,,,,47c64c55,,,,,,8cec06e1,,,,,,Wolves,Crystal Palace
+37,,,,,b8fd03ef,,,,,,2abfe087,,,,,,Watford,Manchester City
+37,,,,,18bb7c10,,,,,,8602292d,,,,,,Aston Villa,Arsenal
+37,,,,,7c21e445,,,,,,19538871,,,,,,Manchester Utd,West Ham
 37,,,,,cff3d9bb,,,,,,822bd0ba,,,,,,Liverpool,Chelsea
 38,,,,,361ca564,,,,,,47c64c55,,,,,,Crystal Palace,Tottenham
 38,,,,,8602292d,,,,,,7c21e445,,,,,,West Ham,Aston Villa

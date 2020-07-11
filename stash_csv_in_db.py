@@ -38,6 +38,7 @@ def stash_in_db(list, league):
     conn = psycopg2.connect("host='all-them-stats.chure6gtnama.us-east-1.rds.amazonaws.com' port='5432' "
                             "dbname='stats_data' user='bundesstats' password='bundesstats'")
     delete_statement = 'delete from full_match_stats_' + league + ';'
+    print(delete_statement)
     cursor = conn.cursor()
     cursor.execute(delete_statement)
     for index in range(len(list)):
@@ -49,7 +50,7 @@ def stash_in_db(list, league):
             continue
         db_name = 'full_match_stats_' + league
         insert_statement = 'insert into ' + db_name + ' (%s) values %s'
-
+        print(insert_statement)
         cursor.execute(insert_statement, (AsIs(','.join(columns)), tuple(values)))
 
     conn.commit()

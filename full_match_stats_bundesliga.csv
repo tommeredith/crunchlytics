@@ -1,7 +1,7 @@
 wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_shots,away_shots_on_target,away_touches,away_pass_pct,away_assists,home_id,home_shots,home_shots_on_target,home_touches,home_pass_pct,home_assists,home_team,away_team
 1,2,2,2.7,0.9,2818f8bc,6,3,434,72.2,2,054efa67,17,6,844,87.1,1,Bayern Munich,Hertha BSC
-1,3,2,2.7,1.2,d9f93f02,10,5,456,65.7,0,c7a9f859,13,4,940,85.7,3,Leverkusen,Paderborn 07
 1,3,0,2.1,0.9,a224b06a,19,5,524,76.6,0,a486e511,18,7,580,77.9,2,Freiburg,Mainz 05
+1,3,2,2.7,1.2,d9f93f02,10,5,456,65.7,0,c7a9f859,13,4,940,85.7,3,Leverkusen,Paderborn 07
 1,2,1,0.8,1.0,bc357bf7,11,2,606,75.7,0,4eaa11d7,15,5,567,74.2,1,Wolfsburg,Köln
 1,1,3,2.4,0.9,b1278397,12,7,473,73.7,3,62add3bf,24,10,808,86.8,1,Werder Bremen,Düsseldorf
 1,5,1,2.4,0.7,0cdc4311,5,1,393,74.2,1,add600ae,21,9,1040,91.7,4,Dortmund,Augsburg
@@ -136,13 +136,13 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 15,1,0,1.1,0.8,f0ac8ee6,17,3,553,75.3,0,c539e393,11,5,561,79.0,1,Schalke 04,Eint Frankfurt
 16,0,5,1.0,2.9,a224b06a,17,8,509,75.7,4,62add3bf,14,5,690,81.6,0,Werder Bremen,Mainz 05
 16,3,3,1.2,2.6,acbb6a5b,12,8,703,77.7,0,add600ae,14,6,849,84.3,3,Dortmund,RB Leipzig
-16,0,2,1.4,0.8,033ea6b8,7,4,577,71.7,1,7a41008f,16,2,540,66.9,0,Union Berlin,Hoffenheim
 16,3,0,1.3,0.5,b1278397,6,2,547,72.7,0,0cdc4311,12,7,495,68.4,1,Augsburg,Düsseldorf
+16,0,2,1.4,0.8,033ea6b8,7,4,577,71.7,1,7a41008f,16,2,540,66.9,0,Union Berlin,Hoffenheim
 16,0,1,1.0,1.4,2818f8bc,10,5,439,68.8,0,c7a9f859,16,7,844,84.2,0,Leverkusen,Hertha BSC
 16,2,4,1.3,2.5,bc357bf7,21,9,625,73.2,4,f0ac8ee6,17,6,524,65.1,2,Eint Frankfurt,Köln
 16,1,3,1.6,3.4,054efa67,22,9,797,82.6,2,a486e511,15,5,522,68.1,1,Freiburg,Bayern Munich
-16,2,0,2.8,0.6,d9f93f02,12,2,560,77.7,0,32f3ee20,16,5,739,82.4,1,M'gladbach,Paderborn 07
 16,1,1,2.4,1.2,c539e393,8,3,538,73.1,0,4eaa11d7,29,9,615,76.1,0,Wolfsburg,Schalke 04
+16,2,0,2.8,0.6,d9f93f02,12,2,560,77.7,0,32f3ee20,16,5,739,82.4,1,M'gladbach,Paderborn 07
 17,2,1,1.3,1.4,add600ae,12,5,725,84.8,1,033ea6b8,11,3,699,82.3,1,Hoffenheim,Dortmund
 17,1,0,1.1,0.2,62add3bf,6,1,567,76.4,0,bc357bf7,7,1,662,77.5,1,Köln,Werder Bremen
 17,3,1,3.3,0.4,0cdc4311,7,2,374,59.7,1,acbb6a5b,21,6,792,84.0,2,RB Leipzig,Augsburg
@@ -189,7 +189,7 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 21,0,0,1.6,1.2,acbb6a5b,9,0,485,65.2,0,054efa67,11,2,912,83.5,0,Bayern Munich,RB Leipzig
 22,4,0,1.3,0.0,f0ac8ee6,1,0,562,76.6,0,add600ae,17,7,883,87.7,3,Dortmund,Eint Frankfurt
 22,1,2,0.9,2.0,2818f8bc,17,6,578,72.9,1,d9f93f02,20,4,605,73.3,1,Paderborn 07,Hertha BSC
-22,2,3,2.4,2.8,4eaa11d7,12,5,548,77.3,1,033ea6b8,13,5,692,82.2,1,Hoffenheim,Wolfsburg
+22,2,3,2.4,2.8,4eaa11d7,12,5,549,77.6,1,033ea6b8,13,5,693,82.3,1,Hoffenheim,Wolfsburg
 22,2,3,1.5,1.2,c7a9f859,12,5,703,77.6,3,7a41008f,19,6,505,62.4,2,Union Berlin,Leverkusen
 22,3,0,1.4,0.3,62add3bf,8,1,671,82.2,0,acbb6a5b,9,3,724,81.5,3,RB Leipzig,Werder Bremen
 22,1,1,0.9,1.2,a486e511,18,5,823,85.4,0,0cdc4311,9,3,395,67.1,1,Augsburg,Freiburg
@@ -214,8 +214,8 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 24,2,2,0.5,1.1,4eaa11d7,12,4,681,77.1,2,7a41008f,6,3,501,65.4,2,Union Berlin,Wolfsburg
 24,1,1,0.6,1.4,c7a9f859,15,6,843,88.0,1,acbb6a5b,10,2,564,78.7,1,RB Leipzig,Leverkusen
 25,1,2,0.7,2.4,bc357bf7,16,3,618,77.5,2,d9f93f02,16,2,579,76.4,1,Paderborn 07,Köln
-25,2,2,1.0,1.0,62add3bf,7,3,645,70.4,2,2818f8bc,19,5,605,69.8,1,Hertha BSC,Werder Bremen
 25,4,0,2.5,0.9,f0ac8ee6,9,3,554,73.8,0,c7a9f859,13,5,803,85.5,4,Leverkusen,Eint Frankfurt
+25,2,2,1.0,1.0,62add3bf,7,3,645,70.4,2,2818f8bc,19,5,605,69.8,1,Hertha BSC,Werder Bremen
 25,3,1,0.8,0.7,7a41008f,15,4,525,77.3,1,a486e511,10,5,567,74.2,2,Freiburg,Union Berlin
 25,0,0,0.8,1.2,acbb6a5b,14,4,789,82.9,0,4eaa11d7,16,4,563,72.5,0,Wolfsburg,RB Leipzig
 25,1,1,0.8,0.7,033ea6b8,3,1,691,82.7,1,c539e393,14,4,569,78.9,1,Schalke 04,Hoffenheim
@@ -239,16 +239,16 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 27,0,1,0.8,0.7,62add3bf,10,2,516,74.9,1,a486e511,17,7,774,83.1,0,Freiburg,Werder Bremen
 27,5,2,2.7,1.1,f0ac8ee6,12,4,507,69.1,2,054efa67,23,10,856,84.5,3,Bayern Munich,Eint Frankfurt
 27,0,3,0.7,1.3,0cdc4311,9,7,439,60.6,0,c539e393,12,2,803,81.7,0,Schalke 04,Augsburg
-27,0,5,0.2,5.3,acbb6a5b,21,9,833,88.0,5,a224b06a,4,1,484,78.2,0,Mainz 05,RB Leipzig
+27,0,5,0.2,5.3,acbb6a5b,21,9,833,88.1,5,a224b06a,4,1,484,78.2,0,Mainz 05,RB Leipzig
 27,2,2,1.5,0.8,b1278397,10,4,494,66.5,2,bc357bf7,14,5,680,76.6,2,Köln,Düsseldorf
 28,0,1,0.8,0.8,054efa67,12,4,753,83.9,0,add600ae,13,4,790,85.0,0,Dortmund,Bayern Munich
-28,0,0,0.8,0.4,32f3ee20,9,4,745,82.8,0,62add3bf,12,7,610,77.6,0,Werder Bremen,M'gladbach
+28,0,0,0.9,0.4,32f3ee20,9,4,746,82.9,0,62add3bf,12,7,610,77.6,0,Werder Bremen,M'gladbach
 28,3,3,4.9,1.0,a486e511,10,5,503,74.8,2,f0ac8ee6,34,16,733,82.8,1,Eint Frankfurt,Freiburg
 28,1,4,1.1,2.3,4eaa11d7,15,9,455,70.4,3,c7a9f859,9,1,814,83.9,0,Leverkusen,Wolfsburg
 28,2,2,0.8,1.5,2818f8bc,11,2,509,78.2,1,acbb6a5b,11,4,616,82.3,2,RB Leipzig,Hertha BSC
 28,1,1,0.4,1.1,a224b06a,10,2,661,79.4,1,7a41008f,8,4,469,67.2,0,Union Berlin,Mainz 05
-28,2,1,1.8,0.8,c539e393,8,3,447,64.2,1,b1278397,13,7,751,79.6,0,Düsseldorf,Schalke 04
 28,3,1,1.4,2.2,bc357bf7,17,4,679,84.9,1,033ea6b8,7,6,550,84.2,3,Hoffenheim,Köln
+28,2,1,1.8,0.8,c539e393,8,3,447,64.2,1,b1278397,13,7,751,79.6,0,Düsseldorf,Schalke 04
 28,0,0,0.7,1.7,d9f93f02,15,2,544,76.3,0,0cdc4311,12,3,614,75.8,0,Augsburg,Paderborn 07
 29,0,1,0.9,0.6,c7a9f859,7,1,828,86.6,1,a486e511,8,2,454,71.0,0,Freiburg,Leverkusen
 29,0,1,1.1,1.9,033ea6b8,10,5,637,78.3,1,a224b06a,17,2,629,77.6,0,Mainz 05,Hoffenheim
@@ -261,8 +261,8 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 29,2,4,1.1,3.3,acbb6a5b,19,8,696,80.2,3,bc357bf7,7,5,615,77.6,0,Köln,RB Leipzig
 24,0,3,0.6,1.6,f0ac8ee6,11,4,564,75.8,3,62add3bf,11,3,570,75.4,0,Werder Bremen,Eint Frankfurt
 30,1,0,1.1,2.5,32f3ee20,19,3,781,82.2,0,a486e511,15,6,448,72.6,1,Freiburg,M'gladbach
-30,2,4,1.0,2.6,054efa67,16,9,729,83.0,4,c7a9f859,10,6,686,81.4,2,Leverkusen,Bayern Munich
 30,0,2,0.5,2.4,a224b06a,17,4,462,61.0,2,f0ac8ee6,11,0,725,76.7,0,Eint Frankfurt,Mainz 05
+30,2,4,1.0,2.6,054efa67,16,9,729,83.0,4,c7a9f859,10,6,686,81.4,2,Leverkusen,Bayern Munich
 30,2,2,2.5,1.0,033ea6b8,8,3,464,73.5,1,b1278397,24,4,771,83.0,1,Düsseldorf,Hoffenheim
 30,1,1,2.2,1.5,d9f93f02,16,5,600,77.0,0,acbb6a5b,12,4,630,76.6,1,RB Leipzig,Paderborn 07
 30,1,0,1.8,0.4,2818f8bc,4,1,546,79.8,0,add600ae,13,3,896,89.3,1,Dortmund,Hertha BSC
@@ -271,37 +271,37 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 30,1,1,2.3,1.0,bc357bf7,8,2,504,67.6,1,0cdc4311,16,5,518,72.1,1,Augsburg,Köln
 31,0,2,2.1,1.9,acbb6a5b,15,7,625,74.8,1,033ea6b8,24,8,638,74.9,0,Hoffenheim,RB Leipzig
 31,0,1,0.6,0.6,add600ae,6,3,860,88.8,1,b1278397,6,3,560,79.4,0,Düsseldorf,Dortmund
-31,1,5,1.7,2.7,62add3bf,10,7,567,76.8,3,d9f93f02,20,9,556,73.0,0,Paderborn 07,Werder Bremen
+31,1,5,1.8,2.6,62add3bf,10,7,567,76.8,3,d9f93f02,20,9,556,73.0,0,Paderborn 07,Werder Bremen
 31,1,4,1.0,2.3,f0ac8ee6,18,7,693,82.6,3,2818f8bc,6,4,499,78.1,0,Hertha BSC,Eint Frankfurt
-31,2,2,2.8,2.3,a486e511,11,5,547,77.0,1,4eaa11d7,19,5,489,75.5,1,Wolfsburg,Freiburg
+31,2,2,2.5,2.3,a486e511,11,5,547,77.0,1,4eaa11d7,19,5,489,75.5,1,Wolfsburg,Freiburg
 31,1,2,1.3,1.2,7a41008f,7,5,494,69.4,2,bc357bf7,10,6,700,79.6,1,Köln,Union Berlin
 31,2,1,1.4,0.8,32f3ee20,9,2,702,82.4,0,054efa67,10,5,698,83.3,1,Bayern Munich,M'gladbach
 31,0,1,1.9,1.1,0cdc4311,9,3,441,60.6,1,a224b06a,18,4,681,75.8,0,Mainz 05,Augsburg
 31,1,1,1.5,1.3,c7a9f859,15,5,916,84.7,0,c539e393,6,3,436,65.1,0,Schalke 04,Leverkusen
-32,3,0,1.9,0.4,4eaa11d7,11,2,629,80.5,0,32f3ee20,11,4,691,83.3,3,M'gladbach,Wolfsburg
-32,1,0,1.7,0.7,d9f93f02,12,3,655,79.0,0,7a41008f,15,6,523,74.4,0,Union Berlin,Paderborn 07
+32,3,0,1.8,0.4,4eaa11d7,11,2,628,80.6,0,32f3ee20,11,3,691,83.4,3,M'gladbach,Wolfsburg
+32,1,0,1.7,0.8,d9f93f02,12,3,657,79.2,0,7a41008f,15,6,523,74.4,0,Union Berlin,Paderborn 07
 32,0,1,0.5,1.2,054efa67,12,3,822,83.3,1,62add3bf,6,1,606,74.4,0,Werder Bremen,Bayern Munich
-32,2,1,1.7,2.1,2818f8bc,11,4,571,79.7,0,a486e511,18,5,560,79.9,0,Freiburg,Hertha BSC
+32,2,1,1.8,2.0,2818f8bc,11,4,572,79.7,0,a486e511,19,6,562,80.0,0,Freiburg,Hertha BSC
 32,2,1,2.4,1.0,c539e393,8,4,498,73.2,1,f0ac8ee6,14,4,749,82.4,2,Eint Frankfurt,Schalke 04
 32,2,2,1.1,1.1,b1278397,12,2,433,64.2,2,acbb6a5b,13,5,885,86.8,2,RB Leipzig,Düsseldorf
-32,3,1,2.7,0.8,bc357bf7,8,1,434,69.3,1,c7a9f859,14,6,786,84.4,2,Leverkusen,Köln
-32,1,3,0.6,1.8,033ea6b8,15,5,679,81.2,1,0cdc4311,12,5,569,74.9,1,Augsburg,Hoffenheim
-32,0,2,1.1,1.8,a224b06a,8,4,457,75.9,1,add600ae,16,4,895,88.4,0,Dortmund,Mainz 05
-33,,,,,62add3bf,,,,,,a224b06a,,,,,,Mainz 05,Werder Bremen
-33,,,,,0cdc4311,,,,,,b1278397,,,,,,Düsseldorf,Augsburg
-33,,,,,7a41008f,,,,,,033ea6b8,,,,,,Hoffenheim,Union Berlin
-33,,,,,add600ae,,,,,,acbb6a5b,,,,,,RB Leipzig,Dortmund
-33,,,,,f0ac8ee6,,,,,,bc357bf7,,,,,,Köln,Eint Frankfurt
-33,,,,,4eaa11d7,,,,,,c539e393,,,,,,Schalke 04,Wolfsburg
-33,,,,,32f3ee20,,,,,,d9f93f02,,,,,,Paderborn 07,M'gladbach
-33,,,,,c7a9f859,,,,,,2818f8bc,,,,,,Hertha BSC,Leverkusen
-33,,,,,a486e511,,,,,,054efa67,,,,,,Bayern Munich,Freiburg
+32,3,1,2.3,0.7,bc357bf7,8,1,434,69.7,1,c7a9f859,14,6,788,84.5,2,Leverkusen,Köln
+32,1,3,0.6,1.7,033ea6b8,15,5,679,81.2,1,0cdc4311,12,5,570,74.9,1,Augsburg,Hoffenheim
+32,0,2,1.1,1.8,a224b06a,8,4,457,75.9,1,add600ae,16,4,894,88.4,0,Dortmund,Mainz 05
+33,3,1,2.1,2.0,62add3bf,17,6,666,80.4,1,a224b06a,20,11,524,80.1,2,Mainz 05,Werder Bremen
+33,1,1,0.5,1.5,0cdc4311,11,3,499,72.3,1,b1278397,8,2,620,78.9,1,Düsseldorf,Augsburg
+33,4,0,2.2,0.5,7a41008f,7,2,490,75.8,0,033ea6b8,15,8,666,84.6,2,Hoffenheim,Union Berlin
+33,1,1,1.1,1.7,f0ac8ee6,10,3,727,75.7,1,bc357bf7,3,1,529,65.6,0,Köln,Eint Frankfurt
+33,0,2,1.0,3.0,add600ae,11,7,779,85.7,2,acbb6a5b,16,4,691,84.5,0,RB Leipzig,Dortmund
+33,1,4,1.0,2.2,4eaa11d7,10,5,541,76.7,1,c539e393,11,3,540,79.7,1,Schalke 04,Wolfsburg
+33,2,0,2.0,1.3,c7a9f859,12,2,779,83.5,0,2818f8bc,14,5,439,66.7,2,Hertha BSC,Leverkusen
+33,1,3,0.8,4.0,32f3ee20,21,10,594,84.6,1,d9f93f02,11,1,582,83.3,1,Paderborn 07,M'gladbach
+33,3,1,2.0,1.9,a486e511,11,3,554,78.9,0,054efa67,23,9,772,85.4,2,Bayern Munich,Freiburg
 34,,,,,054efa67,,,,,,4eaa11d7,,,,,,Wolfsburg,Bayern Munich
 34,,,,,d9f93f02,,,,,,f0ac8ee6,,,,,,Eint Frankfurt,Paderborn 07
 34,,,,,bc357bf7,,,,,,62add3bf,,,,,,Werder Bremen,Köln
 34,,,,,a224b06a,,,,,,c7a9f859,,,,,,Leverkusen,Mainz 05
-34,,,,,2818f8bc,,,,,,32f3ee20,,,,,,M'gladbach,Hertha BSC
 34,,,,,c539e393,,,,,,a486e511,,,,,,Freiburg,Schalke 04
+34,,,,,2818f8bc,,,,,,32f3ee20,,,,,,M'gladbach,Hertha BSC
 34,,,,,b1278397,,,,,,7a41008f,,,,,,Union Berlin,Düsseldorf
 34,,,,,033ea6b8,,,,,,add600ae,,,,,,Dortmund,Hoffenheim
 34,,,,,acbb6a5b,,,,,,0cdc4311,,,,,,Augsburg,RB Leipzig

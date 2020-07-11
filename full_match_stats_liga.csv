@@ -237,7 +237,7 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 24,2,2,1.3,0.6,a8661628,5,3,398,62.2,1,ad2be733,18,6,660,81.8,2,Sevilla,Espanyol
 24,0,0,0.9,0.4,fc536746,2,2,724,83.9,0,7c6f2c78,11,1,448,65.0,0,Leganés,Betis
 24,0,1,0.7,0.4,03c57e2b,6,2,420,62.9,0,2b390eca,10,2,693,78.0,0,Athletic Club,Osasuna
-24,2,2,1.6,1.0,f25da7fb,5,3,498,76.2,2,53a2f082,14,3,818,84.8,1,Real Madrid,Celta Vigo
+24,2,2,1.6,1.0,f25da7fb,5,3,497,76.2,2,53a2f082,14,3,817,84.8,1,Real Madrid,Celta Vigo
 25,3,3,3.1,0.7,2aa12281,11,4,409,74.2,2,fc536746,17,4,772,85.9,1,Betis,Mallorca
 25,1,0,0.1,0.5,7c6f2c78,11,2,576,76.3,0,f25da7fb,3,1,496,73.9,1,Celta Vigo,Leganés
 25,5,0,3.8,0.7,bea5c710,12,5,466,72.3,0,206d90db,13,10,852,85.5,2,Barcelona,Eibar
@@ -271,76 +271,76 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 24,1,2,2.2,1.4,e31d1cd9,5,1,540,63.3,1,bea5c710,12,2,679,72.0,0,Eibar,Real Sociedad
 28,2,0,1.6,0.5,fc536746,11,1,654,83.7,0,ad2be733,12,4,546,78.6,1,Sevilla,Betis
 28,2,1,1.8,0.7,7848bd64,6,2,450,60.2,1,a0435291,10,4,483,64.5,0,Granada,Getafe
-28,1,1,0.8,1.4,9800b6a1,13,3,582,83.1,0,dcc91a7b,12,4,579,81.0,1,Valencia,Levante
+28,1,1,0.8,1.4,9800b6a1,13,3,582,83.1,0,dcc91a7b,12,4,579,80.6,1,Valencia,Levante
 28,2,0,1.8,0.1,8d6fd021,1,0,378,64.6,0,a8661628,19,9,688,84.0,2,Espanyol,Alavés
 28,0,1,0.1,2.0,2a8183b3,16,5,709,84.4,0,f25da7fb,3,0,536,77.2,0,Celta Vigo,Villarreal
 28,1,2,1.3,1.3,17859612,6,2,406,55.9,0,7c6f2c78,10,1,679,78.1,0,Leganés,Valladolid
 28,0,4,0.8,2.3,206d90db,12,7,854,89.7,4,2aa12281,12,3,515,78.5,0,Mallorca,Barcelona
-28,1,1,0.5,1.3,db3b9613,10,2,553,76.9,1,2b390eca,10,4,636,79.2,0,Athletic Club,Atlético Madrid
+28,1,1,0.4,1.2,db3b9613,9,2,554,76.7,1,2b390eca,10,4,637,79.0,0,Athletic Club,Atlético Madrid
 28,3,1,1.3,0.7,bea5c710,9,5,631,77.6,1,53a2f082,6,5,738,83.9,1,Real Madrid,Eibar
 28,1,1,1.3,1.3,03c57e2b,7,0,462,70.2,0,e31d1cd9,9,4,787,83.8,1,Real Sociedad,Osasuna
 29,1,1,0.9,0.7,ad2be733,10,4,707,85.7,1,9800b6a1,10,3,532,78.5,0,Levante,Sevilla
-29,2,2,1.8,0.6,a0435291,7,5,288,56.7,2,fc536746,16,5,763,86.1,1,Betis,Granada
-29,0,0,1.6,1.0,a8661628,5,3,382,52.5,0,7848bd64,20,4,659,77.4,0,Getafe,Espanyol
+29,2,2,1.7,0.7,a0435291,7,5,288,56.7,2,fc536746,16,5,764,86.1,1,Betis,Granada
+29,0,0,1.5,1.0,a8661628,5,3,382,52.5,0,7848bd64,20,4,664,77.6,0,Getafe,Espanyol
 29,1,0,1.5,1.5,2aa12281,15,4,621,77.2,0,2a8183b3,10,4,654,82.1,0,Villarreal,Mallorca
-29,2,0,1.6,0.7,7c6f2c78,6,1,400,74.6,0,206d90db,9,4,985,91.1,1,Barcelona,Leganés
-29,0,0,0.4,1.1,f25da7fb,9,3,614,80.4,0,17859612,7,1,478,71.8,0,Valladolid,Celta Vigo
+29,2,0,1.6,0.8,7c6f2c78,6,1,400,74.8,0,206d90db,9,4,986,91.1,1,Barcelona,Leganés
+29,0,0,0.5,1.1,f25da7fb,9,3,614,80.4,0,17859612,7,1,478,71.8,0,Valladolid,Celta Vigo
 29,2,2,2.2,1.4,2b390eca,5,2,570,64.1,1,bea5c710,13,6,498,60.2,1,Eibar,Athletic Club
-29,0,5,1.0,1.9,db3b9613,10,6,613,69.6,4,03c57e2b,13,3,556,68.2,0,Osasuna,Atlético Madrid
-29,2,0,,,e31d1cd9,9,1,,,0,8d6fd021,15,7,,,1,Alavés,Real Sociedad
-29,3,0,2.0,0.4,dcc91a7b,4,2,537,80.2,0,53a2f082,20,14,840,89.5,3,Real Madrid,Valencia
-30,1,1,0.4,1.2,7c6f2c78,15,4,605,75.8,0,2aa12281,7,3,453,67.3,0,Mallorca,Leganés
-30,0,1,1.3,0.6,2a8183b3,5,1,612,76.7,1,a0435291,14,4,610,76.7,0,Granada,Villarreal
+29,0,5,1.1,1.9,db3b9613,10,6,613,69.6,4,03c57e2b,13,3,556,68.2,0,Osasuna,Atlético Madrid
+29,2,0,2.0,0.5,e31d1cd9,9,1,580,79.2,0,8d6fd021,16,7,385,64.9,1,Alavés,Real Sociedad
+29,3,0,1.9,0.4,dcc91a7b,4,2,537,80.2,0,53a2f082,20,14,840,89.5,3,Real Madrid,Valencia
+30,1,1,0.4,1.4,7c6f2c78,15,4,605,75.8,0,2aa12281,7,3,453,67.3,0,Mallorca,Leganés
+30,0,1,1.1,0.5,2a8183b3,5,1,611,76.7,1,a0435291,14,4,609,76.7,0,Granada,Villarreal
 30,0,0,0.6,0.6,206d90db,10,3,858,85.7,0,ad2be733,8,4,536,78.7,0,Sevilla,Barcelona
-30,1,3,,,9800b6a1,14,8,,,0,a8661628,10,3,,,1,Espanyol,Levante
-30,1,0,1.4,1.4,fc536746,8,5,622,82.1,0,2b390eca,12,4,492,75.5,1,Athletic Club,Betis
-30,1,1,,,bea5c710,8,2,,,1,7848bd64,9,2,,,1,Getafe,Eibar
-30,1,0,1.3,0.5,17859612,6,2,454,72.4,0,db3b9613,14,4,688,83.8,1,Atlético Madrid,Valladolid
-30,,,,,8d6fd021,,,,,,f25da7fb,,,,,,Celta Vigo,Alavés
-30,,,,,03c57e2b,,,,,,dcc91a7b,,,,,,Valencia,Osasuna
-30,,,,,53a2f082,,,,,,e31d1cd9,,,,,,Real Sociedad,Real Madrid
-31,,,,,a0435291,,,,,,7c6f2c78,,,,,,Leganés,Granada
-31,,,,,ad2be733,,,,,,2a8183b3,,,,,,Villarreal,Sevilla
-31,,,,,db3b9613,,,,,,9800b6a1,,,,,,Levante,Atlético Madrid
-31,,,,,7848bd64,,,,,,17859612,,,,,,Valladolid,Getafe
-31,,,,,2b390eca,,,,,,206d90db,,,,,,Barcelona,Athletic Club
-31,,,,,f25da7fb,,,,,,e31d1cd9,,,,,,Real Sociedad,Celta Vigo
-31,,,,,03c57e2b,,,,,,8d6fd021,,,,,,Alavés,Osasuna
-31,,,,,2aa12281,,,,,,53a2f082,,,,,,Real Madrid,Mallorca
-31,,,,,dcc91a7b,,,,,,bea5c710,,,,,,Eibar,Valencia
-31,,,,,a8661628,,,,,,fc536746,,,,,,Betis,Espanyol
-32,,,,,17859612,,,,,,ad2be733,,,,,,Sevilla,Valladolid
-32,,,,,2aa12281,,,,,,2b390eca,,,,,,Athletic Club,Mallorca
-32,,,,,206d90db,,,,,,f25da7fb,,,,,,Celta Vigo,Barcelona
-32,,,,,7c6f2c78,,,,,,03c57e2b,,,,,,Osasuna,Leganés
-32,,,,,8d6fd021,,,,,,db3b9613,,,,,,Atlético Madrid,Alavés
-32,,,,,fc536746,,,,,,9800b6a1,,,,,,Levante,Betis
-32,,,,,dcc91a7b,,,,,,2a8183b3,,,,,,Villarreal,Valencia
-32,,,,,bea5c710,,,,,,a0435291,,,,,,Granada,Eibar
-32,,,,,53a2f082,,,,,,a8661628,,,,,,Espanyol,Real Madrid
-32,,,,,e31d1cd9,,,,,,7848bd64,,,,,,Getafe,Real Sociedad
+30,1,3,0.6,1.6,9800b6a1,15,8,569,78.5,0,a8661628,10,3,494,71.8,1,Espanyol,Levante
+30,1,0,1.4,1.4,fc536746,8,5,622,82.1,0,2b390eca,12,4,493,75.5,1,Athletic Club,Betis
+30,1,1,0.5,0.8,bea5c710,8,2,443,49.4,1,7848bd64,8,2,502,55.8,1,Getafe,Eibar
+30,1,0,1.3,0.5,17859612,6,2,455,72.4,0,db3b9613,14,4,689,83.8,1,Atlético Madrid,Valladolid
+30,6,0,2.8,0.5,8d6fd021,4,2,346,71.1,0,f25da7fb,12,8,706,88.7,3,Celta Vigo,Alavés
+30,2,0,1.4,1.5,03c57e2b,15,3,528,76.5,0,dcc91a7b,7,3,643,83.1,2,Valencia,Osasuna
+30,1,2,0.6,1.4,53a2f082,9,6,676,82.7,1,e31d1cd9,11,2,693,84.9,1,Real Sociedad,Real Madrid
+31,2,2,0.7,0.9,ad2be733,13,6,718,80.2,2,2a8183b3,7,5,563,79.5,1,Villarreal,Sevilla
+31,0,0,1.5,0.3,a0435291,4,1,465,66.7,0,7c6f2c78,9,2,613,75.0,0,Leganés,Granada
+31,0,1,0.9,1.3,db3b9613,12,7,568,78.1,0,9800b6a1,12,0,690,83.1,0,Levante,Atlético Madrid
+31,1,1,1.6,0.7,7848bd64,15,1,529,66.2,1,17859612,5,1,474,57.7,0,Valladolid,Getafe
+31,1,0,1.8,0.8,2b390eca,7,0,443,69.6,0,206d90db,18,5,925,86.4,1,Barcelona,Athletic Club
+31,0,1,0.8,0.9,f25da7fb,3,0,495,72.8,0,e31d1cd9,13,6,650,81.4,0,Real Sociedad,Celta Vigo
+31,0,1,0.4,0.7,03c57e2b,7,1,530,59.5,0,8d6fd021,4,0,578,65.7,0,Alavés,Osasuna
+31,2,0,1.6,0.8,2aa12281,11,4,527,84.7,0,53a2f082,15,6,642,89.4,1,Real Madrid,Mallorca
+31,1,0,0.7,0.6,dcc91a7b,7,0,653,75.1,0,bea5c710,14,5,403,59.7,0,Eibar,Valencia
+31,1,0,0.7,1.0,a8661628,9,2,422,65.2,0,fc536746,12,6,668,81.9,1,Betis,Espanyol
+32,1,1,1.3,0.6,17859612,11,5,373,62.3,1,ad2be733,13,2,844,86.6,0,Sevilla,Valladolid
+32,3,1,2.3,1.2,2aa12281,12,1,559,78.9,0,2b390eca,11,5,529,78.6,2,Athletic Club,Mallorca
+32,2,2,2.5,2.0,206d90db,18,2,800,87.6,2,f25da7fb,10,6,447,77.6,1,Celta Vigo,Barcelona
+32,2,1,0.7,1.6,7c6f2c78,20,6,589,71.3,1,03c57e2b,6,5,611,71.3,2,Osasuna,Leganés
+32,2,1,1.6,1.0,8d6fd021,5,1,408,68.7,0,db3b9613,13,3,780,87.4,1,Atlético Madrid,Alavés
+32,4,2,1.7,2.1,fc536746,17,8,673,85.4,1,9800b6a1,9,4,418,76.1,3,Levante,Betis
+32,2,0,1.5,0.4,dcc91a7b,4,0,586,82.1,0,2a8183b3,17,4,796,89.9,2,Villarreal,Valencia
+32,1,2,1.1,1.8,bea5c710,13,6,452,62.7,2,a0435291,13,5,561,69.9,1,Granada,Eibar
+32,0,1,0.9,2.3,53a2f082,14,6,856,87.1,1,a8661628,8,5,453,75.9,0,Espanyol,Real Madrid
+32,2,1,1.2,1.0,e31d1cd9,5,1,606,70.5,1,7848bd64,10,3,451,55.2,1,Getafe,Real Sociedad
+33,5,1,1.4,1.6,f25da7fb,11,7,693,83.8,0,2aa12281,8,6,504,80.6,2,Mallorca,Celta Vigo
+33,0,3,0.7,1.5,ad2be733,11,6,689,86.9,1,7c6f2c78,9,3,504,78.1,0,Leganés,Sevilla
+33,2,2,1.5,1.9,db3b9613,8,1,420,77.7,0,206d90db,11,4,908,91.6,0,Barcelona,Atlético Madrid
 33,,,,,a0435291,,,,,,8d6fd021,,,,,,Alavés,Granada
-33,,,,,a8661628,,,,,,e31d1cd9,,,,,,Real Sociedad,Espanyol
-33,,,,,7848bd64,,,,,,53a2f082,,,,,,Real Madrid,Getafe
-33,,,,,03c57e2b,,,,,,bea5c710,,,,,,Eibar,Osasuna
-33,,,,,9800b6a1,,,,,,17859612,,,,,,Valladolid,Levante
-33,,,,,f25da7fb,,,,,,2aa12281,,,,,,Mallorca,Celta Vigo
-33,,,,,2a8183b3,,,,,,fc536746,,,,,,Betis,Villarreal
 33,,,,,2b390eca,,,,,,dcc91a7b,,,,,,Valencia,Athletic Club
-33,,,,,db3b9613,,,,,,206d90db,,,,,,Barcelona,Atlético Madrid
-33,,,,,ad2be733,,,,,,7c6f2c78,,,,,,Leganés,Sevilla
-34,,,,,e31d1cd9,,,,,,9800b6a1,,,,,,Levante,Real Sociedad
-34,,,,,dcc91a7b,,,,,,a0435291,,,,,,Granada,Valencia
-34,,,,,8d6fd021,,,,,,17859612,,,,,,Valladolid,Alavés
-34,,,,,7c6f2c78,,,,,,a8661628,,,,,,Espanyol,Leganés
-34,,,,,bea5c710,,,,,,ad2be733,,,,,,Sevilla,Eibar
-34,,,,,53a2f082,,,,,,2b390eca,,,,,,Athletic Club,Real Madrid
-34,,,,,fc536746,,,,,,f25da7fb,,,,,,Celta Vigo,Betis
-34,,,,,206d90db,,,,,,2a8183b3,,,,,,Villarreal,Barcelona
-34,,,,,7848bd64,,,,,,03c57e2b,,,,,,Osasuna,Getafe
+33,,,,,9800b6a1,,,,,,17859612,,,,,,Valladolid,Levante
+33,,,,,2a8183b3,,,,,,fc536746,,,,,,Betis,Villarreal
+33,,,,,a8661628,,,,,,e31d1cd9,,,,,,Real Sociedad,Espanyol
+33,,,,,03c57e2b,,,,,,bea5c710,,,,,,Eibar,Osasuna
+33,,,,,7848bd64,,,,,,53a2f082,,,,,,Real Madrid,Getafe
 34,,,,,2aa12281,,,,,,db3b9613,,,,,,Atlético Madrid,Mallorca
-35,,,,,db3b9613,,,,,,f25da7fb,,,,,,Celta Vigo,Atlético Madrid
+34,,,,,fc536746,,,,,,f25da7fb,,,,,,Celta Vigo,Betis
+34,,,,,8d6fd021,,,,,,17859612,,,,,,Valladolid,Alavés
+34,,,,,dcc91a7b,,,,,,a0435291,,,,,,Granada,Valencia
+34,,,,,53a2f082,,,,,,2b390eca,,,,,,Athletic Club,Real Madrid
+34,,,,,7c6f2c78,,,,,,a8661628,,,,,,Espanyol,Leganés
+34,,,,,7848bd64,,,,,,03c57e2b,,,,,,Osasuna,Getafe
+34,,,,,206d90db,,,,,,2a8183b3,,,,,,Villarreal,Barcelona
+34,,,,,e31d1cd9,,,,,,9800b6a1,,,,,,Levante,Real Sociedad
+34,,,,,bea5c710,,,,,,ad2be733,,,,,,Sevilla,Eibar
 35,,,,,9800b6a1,,,,,,2aa12281,,,,,,Mallorca,Levante
+35,,,,,db3b9613,,,,,,f25da7fb,,,,,,Celta Vigo,Atlético Madrid
 35,,,,,8d6fd021,,,,,,53a2f082,,,,,,Real Madrid,Alavés
 35,,,,,7c6f2c78,,,,,,bea5c710,,,,,,Eibar,Leganés
 35,,,,,2a8183b3,,,,,,7848bd64,,,,,,Getafe,Villarreal
@@ -376,6 +376,6 @@ wk,home_score,away_score,home_expected_goals,away_expected_goals,away_id,away_sh
 38,,,,,f25da7fb,,,,,,a8661628,,,,,,Espanyol,Celta Vigo
 38,,,,,dcc91a7b,,,,,,ad2be733,,,,,,Sevilla,Valencia
 38,,,,,bea5c710,,,,,,2a8183b3,,,,,,Villarreal,Eibar
-38,,,,,7848bd64,,,,,,9800b6a1,,,,,,Levante,Getafe
 38,,,,,53a2f082,,,,,,7c6f2c78,,,,,,Leganés,Real Madrid
+38,,,,,7848bd64,,,,,,9800b6a1,,,,,,Levante,Getafe
 38,,,,,2aa12281,,,,,,03c57e2b,,,,,,Osasuna,Mallorca
