@@ -100,6 +100,7 @@ def scrape_matches_like_a_thug(url, league, table_url):
     options.add_argument('--disable-extensions')
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
     chrome_path = r'/usr/local/bin/chromedriver'
     browser = webdriver.Chrome(chrome_path, options=options)
     page = requests.get(url)
