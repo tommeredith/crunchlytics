@@ -97,6 +97,7 @@ def convert_league_table_to_csv(table, league):
 def scrape_matches_like_a_thug(url, league, table_url):
     all_match_stats = []
     options = webdriver.ChromeOptions()
+    options.add_argument('--disable-extensions')
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     chrome_path = r'/usr/local/bin/chromedriver'
