@@ -98,6 +98,7 @@ def scrape_matches_like_a_thug(url, league, table_url):
     all_match_stats = []
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
     chrome_path = r'/usr/local/bin/chromedriver'
     browser = webdriver.Chrome(chrome_path, options=options)
     page = requests.get(url)
